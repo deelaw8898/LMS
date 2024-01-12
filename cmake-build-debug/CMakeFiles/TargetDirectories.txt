@@ -1,0 +1,3 @@
+G:/Study USask/ResumeProjects/LMS/cmake-build-debug/CMakeFiles/LMS.dir
+G:/Study USask/ResumeProjects/LMS/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Study USask/ResumeProjects/LMS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
